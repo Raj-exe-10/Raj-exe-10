@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-exe-10&label=Profile%20views&color=0e75b6&style=flat" alt="raj-exe-10" /> </p>
 
-- 🌱 I’m currently learning **Python,C#,React**
+- 🌱 I’m currently learning **Python,C#,React,Data Structures and Algorithms**
 
-- 💬 Ask me about **C,C++,Java**
+- 💬 Ask me about **C,C++,Java,Python**
 
 - 📫 How to reach me **rajputnumber10@gmail.com**
 

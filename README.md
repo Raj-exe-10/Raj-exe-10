@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python,C#,React,Data Structures and Algorithms**
 
-- 💬 Ask me about **C,C++,Java,Python**
+- 💬 Ask me about **C,C++,Java,Python,Django**
 
 - 📫 How to reach me **rajputnumber10@gmail.com**
 
